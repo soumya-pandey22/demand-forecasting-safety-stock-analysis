@@ -2,7 +2,7 @@
 
 ## 🔎 Overview
 This project extends the analysis from my earlier
-[Inventory Optimization: EOQ Analysis](https://github.com/soumya-pandey22/inventory-optimization-eoq)
+[Inventory Optimization: EOQ Analysis](https://github.com/soumya-pandey22/inventory_optimization_eoq)
 project. It evaluates the accuracy of the dataset's built-in demand forecasts and
 replaces the earlier project's simple max-min Safety Stock heuristic with a proper
 statistical method based on demand variability and service levels.
@@ -68,5 +68,4 @@ meaningful in practice.
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
 ## 🔗 Related Project
-[Inventory Optimization: EOQ Analysis](https://github.com/soumya-pandey22/inventory-optimization-eoq)
-— the original project this one builds on.
+[Inventory Optimization: EOQ Analysis](https://github.com/soumya-pandey22/inventory_optimization_eoq)— the original project this one builds on.
